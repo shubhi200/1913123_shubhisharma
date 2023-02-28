@@ -1,1 +1,1 @@
-# 1913123_shubhisharma
+MIN_SUPPORT=60%
